@@ -3,7 +3,7 @@
 # Script to Install Prometheus Server on Linux Ubuntu
 # Tested on Ubuntu 22.04, 24.04
 #--------------------------------------------------------------------
-PROMETHEUS_VERSION="2.51.1"
+PROMETHEUS_VERSION="3.1.0"
 PROMETHEUS_FOLDER_CONFIG="/etc/prometheus"
 PROMETHEUS_FOLDER_TSDATA="/etc/prometheus/data"
 
